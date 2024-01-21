@@ -2,7 +2,6 @@
 #include<wiringPi.h>
 #include<stdlib.h>
 
-# LED管脚
 #define LEDpin1 15
 #define LEDpin2 16
 
